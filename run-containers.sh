@@ -27,7 +27,7 @@ function print_help {
 # initialize
 cd `dirname "$0"`
 export TAG=
-export DBCONN=
+export DBCONN=/Users/chrisbrooks/Dropbox/Briefcase/dev/asl-articles/db/asl-articles.db
 export SQLITE=
 export WEB_PORTNO=3002
 export FLASK_PORTNO=5002
